@@ -18,6 +18,6 @@ We expect the assignment to take you 6 - 10 hours. When you are done, zip/compre
 
 We are not testing your programming aptitude, so don't worry if you are new and don't have the most advanced or polished site in the world. We want to see your intellectual curiosity, resourcefulness, and programming potential.  By looking at your code and talking with you about it, we’ll be able to see how you think and work with code.  Please feel free to focus just on making something simple that works, but if you can go above and beyond and impress us, it certainly won’t hurt your application!  During your interview, we'll use this project as a starting point for a conversation about what you tried and learned along the way, your approach form a coding point of view, and what else you'd like to do with it.
 
-If you have questions about the Dash tool, email the help resources on Dash. If you have questions about the WDI admissions process, please reach out to the admissions officer with whom you have been in touch.  If you are stuck in the assignment, try to get through it on your own.  If you’re really stuck, Google can help!
+If you have questions about the Dash tool, please email the help resources on Dash. If you have questions about the WDI admissions process, please reach out to the admissions officer with whom you have been in touch.  If you are stuck in the assignment, try to get through it on your own.  If you’re really stuck, Google can help!
 
 Good luck!

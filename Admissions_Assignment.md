@@ -10,8 +10,8 @@ Congratulations on making it to the second round of the admissions process for W
 
 3. Build your own single-page "About Me" website using HTML and CSS.  You’ll use what you learned from Dash in this part, but you can't submit what you coded with Dash!  Your website should implement both HTML and CSS styling. Make sure to include:
 
-	- A section telling us more about 
-	- A picture of you
+	- A section telling us more about you
+	- A picture of yourself
 	- A section with your contact information
 
 We expect the assignment to take you 6 - 10 hours. When you are done, zip/compress folder and send it to wdi_admissions@generalassemb.ly. If you're not sure how to zip a folder, check out [this site](http://www.macinstruct.com/node/159).
